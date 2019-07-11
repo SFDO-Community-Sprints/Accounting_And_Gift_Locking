@@ -14,6 +14,15 @@ Indicate who would find the most value in the use of this project.
 * Team Leader:
 * List of Contributors:
 
+  Amanda Styles, Attain
+  Greg
+  Corey Snow, Harvard
+  Chris
+  Julie, Kell Partners
+  Chris Clark, Salesforce (PM Fundraising)
+  David Thompson, Salesforce (Power of Us Hub)
+  Keld Bangsberg, Salesforce (SPM Gift Entry Manager)
+
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
 
