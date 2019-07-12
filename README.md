@@ -22,6 +22,7 @@ Indicate who would find the most value in the use of this project.
   Chris Clark, Salesforce (PM Fundraising)
   David Thompson, Salesforce (Power of Us Hub)
   Keld Bangsberg, Salesforce (SPM Gift Entry Manager)
+  Srinidhi Annu, Michigan State University
 
 ### Project Team Accomplishments
 What did the Project Team accomplished during the Sprint?
