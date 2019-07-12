@@ -24,7 +24,20 @@ Indicate who would find the most value in the use of this project.
   * Srinidhi Annu, Michigan State University
 
 ### Project Team Accomplishments
-What did the Project Team accomplished during the Sprint?
+We created basic criteria for this product:
+
+Basic Level Accounting Interface
+
+  * User Interface where we can generate an export of key fields that the organization would define
+  * Ability to batch information to Accounting (Both Automatic or Manual)
+  * Export them, mark them posted, lock key fields (including either header objects or fields)
+
+More Detailed Version
+  * Create a record for each
+  * Choice of Ledger Entries
+  * Debits / Credits
+  * Stages & States (Approval Process)
+  * Cleared out after a specified time
 
 ### Contributing
 If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?
